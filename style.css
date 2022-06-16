@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 370px;
+}
+
+body {
+    background-color: grey;
+}
+
+ul {
+    list-style-type: none;
+    text-align: right;
+
+}
+
+h2 {text-align: center;}
+
+section {
+    background-color: bisque;
+}
